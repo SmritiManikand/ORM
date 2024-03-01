@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 29/2/2023
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
@@ -48,7 +48,7 @@ admin.site.register(Book,BookAdmin)
 
 ## OUTPUT
 
-![alt text](s2.png)
+![alt text](s3.png)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
