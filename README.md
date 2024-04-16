@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 29.02.2023
+## Date: 29.02.2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
